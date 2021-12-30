@@ -1,7 +1,7 @@
 <h1>飛捷廣告Feijie</h1>
 <html>
 <head>
-<title>下拉菜单实例|本教程(w3big.com)</title>
+<title>下拉菜单</title>
 <meta charset="utf-8">
 <style>
 .dropbtn {
