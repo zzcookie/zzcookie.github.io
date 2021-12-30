@@ -55,18 +55,15 @@
     <a href="http://www.w3big.com">訂購量試算與訂購紀錄</a>
   </div>
 </div>
+ <p>  </p>
 
-</body>
-</html>
-<body>
 <div class="dropdown">
   <button class="dropbtn">人員管理</button>
   <div class="dropdown-content">
     <a href="http://www.w3big.com">員工績效評估</a>
     <a href="http://www.w3big.com">自動化排班</a>
  </div>
-    </body>
-</html>
+    <p>  </p>
     <div class="dropdown">
   <button class="dropbtn">行銷管理</button>
   <div class="dropdown-content">
@@ -75,4 +72,5 @@
   </div>
 </div>
 
-
+</body>
+</html>
