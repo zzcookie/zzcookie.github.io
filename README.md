@@ -46,15 +46,13 @@
 </head>
 <body>
 
-<h2>下拉菜单</h2>
-<p>鼠标移动到按钮上打开下拉菜单。</p>
+<h2>功能列表</h2>
 
 <div class="dropdown">
-  <button class="dropbtn">下拉菜单</button>
+  <button class="dropbtn">耗材管理</button>
   <div class="dropdown-content">
-    <a href="http://www.w3big.com">本教程 1</a>
-    <a href="http://www.w3big.com">本教程 2</a>
-    <a href="http://www.w3big.com">本教程 3</a>
+    <a href="http://www.w3big.com">耗材查詢與管理</a>
+    <a href="http://www.w3big.com">訂購量試算與訂購紀錄</a>
   </div>
 </div>
 
@@ -63,11 +61,16 @@
 
 
 <div class="dropdown">
-  <button class="dropbtn">下拉菜单</button>
+  <button class="dropbtn">人員管理</button>
   <div class="dropdown-content">
-    <a href="http://www.w3big.com">本教程 1</a>
-    <a href="http://www.w3big.com">本教程 2</a>
-    <a href="http://www.w3big.com">本教程 3</a>
+    <a href="http://www.w3big.com">員工績效評估</a>
+    <a href="http://www.w3big.com">自動化排班</a>
+ </div>
+    <div class="dropdown">
+  <button class="dropbtn">行銷管理</button>
+  <div class="dropdown-content">
+    <a href="http://www.w3big.com">顧客關係管理</a>
+    <a href="http://www.w3big.com">行銷分析</a>
   </div>
 </div>
 
