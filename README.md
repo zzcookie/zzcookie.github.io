@@ -1,5 +1,4 @@
 <h1>飛捷廣告Feijie</h1>
-<!DOCTYPE html>
 <html>
 <head>
 <title>下拉菜单实例|本教程(w3big.com)</title>
